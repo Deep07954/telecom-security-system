@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.env
+venv/
+env/
+*.venv
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data / models / large files
+data/
+models/
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
